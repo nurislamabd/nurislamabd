@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Nurislam 👋
+> Electrical and Computer Engineering @ Lafayette College | Bergh Family Fellow - Research in Robotics | Oechsle Scholar
+
+
 
 <!--
 **nurislamabd/nurislamabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

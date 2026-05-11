@@ -1,5 +1,5 @@
 ## Hi there, I'm Nurislam 👋
-Electrical and Computer Engineering @ Lafayette College | Bergh Family Fellow - Research in Robotics | Oechsle Scholar
+##### Electrical and Computer Engineering @ Lafayette College | Bergh Family Fellow - Research in Robotics | Oechsle Scholar
 
 
 

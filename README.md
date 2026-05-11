@@ -1,6 +1,8 @@
 ## Hi there, I'm Nurislam 👋
 #### Electrical and Computer Engineering @ Lafayette College | Bergh Family Fellow - Research in Robotics | Oechsle Scholar
 
+Electrical and Computer engineering student passionate about robotics, software development, and data-driven problem solving. Building projects in Java, MATLAB, JavaFX, and web development while exploring AI, simulations, and intelligent systems.
+
 
 
 <!--
